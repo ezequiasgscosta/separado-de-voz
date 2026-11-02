@@ -1,0 +1,3 @@
+demucs
+imageio-ffmpeg
+numpy<2
